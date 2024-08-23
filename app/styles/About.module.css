@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .nava {
+    margin: 015px;
+    color: #00bfff;
+    text-decoration: none;
+  }
+  
+  .nava:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,0 +1,33 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .nava {
+    margin: 015px;
+    color: #00bfff;
+    text-decoration: none;
+  }
+  
+  .nava:hover {
+    text-decoration: underline;
+  }
+  
+  .list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .containerul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  
+  .listItem {
+    font-size: 20px;
+    margin: 10px0;
+  }
+  
